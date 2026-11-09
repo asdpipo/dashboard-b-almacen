@@ -1,3 +1,7 @@
+# Dashboard B — Versión 3
+
+Mejoras: ilustraciones de sistemas y equipos con encuadre ampliado; trazado de circulación funcional distribuida y flechas colocadas únicamente en los espacios de conexión.
+
 # Dashboard B · Ingeniería del almacén — C3 y C4
 
 ## Contenido
