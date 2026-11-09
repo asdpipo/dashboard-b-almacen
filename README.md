@@ -21,3 +21,6 @@ Mejoras: ilustraciones de sistemas y equipos con encuadre ampliado; trazado de c
 - Ilustraciones: conceptual / generadas, **no reemplazan ficha técnica ni validación**.
 - Circulación C4: 120 m² contabilizados una sola vez, representados como superficie distribuida, no como sala aislada.
 - Layout y simulador son esquemáticos, no certifican factibilidad física.
+
+## Versión 4
+Se reconstruyó el layout con coordenadas consistentes, se quitaron las etiquetas de acceso superpuestas y las flechas se restringieron a corredores; circulación distribuida en vez de sala independiente.
